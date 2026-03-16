@@ -10,8 +10,8 @@ This project demonstrates how blockchain can power a transparent fundraising pla
 
 | Repository | Description |
 |------------|-------------|
-| stellar-crowdfunding-api | Backend API for campaigns, wallets, and donations |
-| stellar-crowdfunding-web | Frontend application |
+| stellar-crowdfunding-backend | Backend API for campaigns, wallets, and donations |
+| stellar-crowdfunding-frontend | Frontend application |
 | stellar-crowdfunding-docs | System architecture and documentation |
 
 ## Features
